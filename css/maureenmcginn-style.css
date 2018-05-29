@@ -1,0 +1,33 @@
+/*CodeByMaureen Styles*/
+.maureenmcginn-advice {
+  text-align:center;
+  font-family: 'Heebo', sans-serif;
+  padding: 80px 0;
+  background: #6f9c9d;
+}
+.maureenmcginn-advice h1 {
+  font-family: 'Heebo', sans-serif;
+  font-size: 36px;
+  color:#FFFFFF;
+}
+
+.maureenmcginn-advice h4 {
+font-size: 24px;
+font-family: 'Heebo', sans-serif;
+color:#FFFFFF;
+text-align:left;
+/*b78a2d*/
+}
+
+.maureenmcginn-advice p{
+text-align: justify;
+font-family: 'Open Sans Condensed', sans-serif;
+font-weight: lighter;
+font-size: 16px;
+color:white;
+line-height: 1.2;
+}
+
+.maureenmcginn-advice footer {
+padding: 40px 0;
+}
